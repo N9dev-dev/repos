@@ -1,0 +1,94 @@
+{
+    "META": {
+      "repoName": "Ibn Al Toury's Repo",
+      "repoIcon": "https://usescarlet.com/favicon.png"
+    },
+    "Games": [
+      {
+        "name": "RevHeadz+",
+        "version": "1.20",
+        "down": "",
+        "category": "Games",
+        "description": "RevHeadz+ is a modified version of RevHeadz by IbnAlToury.",
+        "bundleID": "ibn.al.toury.revheadz",
+        "appstore": "au.com.revheadz.revheadz"
+      },
+      {
+        "name": "Flappy Bird",
+        "version": "4.3",
+        "down": "",
+        "category": "Games",
+        "description": "A Classic Flappy Bird",
+        "bundleID": "ibn.al.toury.flappybird",
+        "appstore": "com.dotgears.flap"
+      },
+      {
+        "name": "Agar.io",
+        "version": "2.26.7",
+        "down": "",
+        "category": "Games",
+        "description": [
+  
+          "✅Custom Zooms🆕",
+          "✅Macro Button",
+          "✅Macro Speed",
+          "✅Max Macro",
+          "✅Enable Marco",
+          "✅Upload Photos 🆕",
+          "✅Customization Skins 🆕",
+          "✅Buttons Reworking Again🆕",
+          "✅Joystick Better Added🆕",
+          "🐱XelaHot Modmenu Reworking",
+          "🐋Anti Cheating Bypassed",
+  
+          "ℹ️ Tap Right & Left Corener To Open Menus"
+        ],
+        "bundleID": "ibn.al.toury.agario",
+        "appstore": "com.miniclip.agar.io"
+      }
+    ],
+    "Tweaked": [
+      {
+        "name": "Snapchat+ (Wicked & Falcon)",
+        "version": "12.67.0.31",
+        "down": "",
+        "category": "Tweaked",
+        "description": "SnapChat Wicked & SCFalcon all in one.",
+        "bundleID": "ibn.al.toury.snapchat",
+        "appstore": "com.toyopagroup.picaboo"
+      },
+      {
+        "name": "Spotify Deluxe",
+        "version": "8.6.42",
+        "down": "",
+        "category": "Tweaked",
+        "description": "Sposify and Spotilife tweak merged into one app",
+        "bundleID": "ibn.al.toury.spotify",
+        "appstore": "com.spotify.client"
+      },
+      {
+        "name": "Instagram Rocket (cracked)",
+        "version": "312.0.1",
+        "down": "",
+        "category": "Tweaked",
+        "bundleID": "ibn.al.toury.instagram",
+        "appstore": "com.burbn.instagram"
+      },
+      {
+        "name": "Tiktok++",
+        "version": "31.8.0",
+        "down": "",
+        "category": "Tweaked",
+        "bundleID": "ibn.al.toury.tiktok",
+        "appstore": "com.zhiliaoapp.musically"
+      },
+      {
+        "name": "Whatsapp++ (dupelicatable)",
+        "version": "23.25.81",
+        "down": "https://archive.org/download/watusi3_1.2.14x/com.fouadraheb.watusi_v23.25.81_watusi3_1.2.14.ipa",
+        "category": "Tweaked",
+        "bundleID": "com.fouadraheb.watusi",
+        "appstore": "et.whatsapp.WhatsApp"
+      }
+    ]
+  }
