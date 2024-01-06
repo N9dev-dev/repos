@@ -84,7 +84,7 @@
       "icon": "https://n9dev-dev.github.io/repos/icons/flappy.png",
       "down": "https://download.directpubliclinkbot.workers.dev/?file_id=BQACAgQAAxkBAAIbnGWZsqp393HL9aFjBB9-bH441CKtAALmEAACu23QUMbh4ta1AAEf6zQE&mime_type=application/binary&file_name=Flappy+Bird_4.3_1704067843.ipa",
       "category": "Games",
-      "bundleID": "ibn.al.toury.",
+      "bundleID": "ibn.al.toury.flappybird",
       "appstore": "com.dotgears.flap"
     }
   ]
