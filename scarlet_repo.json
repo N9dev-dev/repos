@@ -1,70 +1,91 @@
 {
-    "META": {
-      "repoName": "Ibn Al Toury's Repo",
-      "repoIcon": "https://usescarlet.com/favicon.png"
+  "META": {
+    "repoName": "ibn al toury's repo",
+    "repoIcon": "https://n9dev-dev.github.io/repos/icons/icon.png"
+  },
+  "Tweaked": [
+    {
+      "name": "Snapchat",
+      "version": "12.67.0.31",
+      "icon": "https://n9dev-dev.github.io/repos/icons/snapchat.png",
+      "down": "https://cdn.filetodirectlink.workers.dev/AgAD5R43896?file_name=Snapchat+-+KamoHacks%5B12.69.0.20%5D.ipa",
+      "category": "Tweaked Apps",
+      "bundleID": "ibn.al.toury.snapchat",
+      "appstore": "com.toyopagroup.picaboo"
     },
-    "Games": [
-      {
-        "name": "RevHeadz+",
-        "version": "1.20",
-        "down": "",
-        "category": "Games",
-        "description": "RevHeadz+ is a modified version of RevHeadz by IbnAlToury.",
-        "bundleID": "ibn.al.toury.revheadz",
-        "appstore": "au.com.revheadz.revheadz"
-      },
-      {
-        "name": "Flappy Bird",
-        "version": "4.3",
-        "down": "",
-        "category": "Games",
-        "description": "A Classic Flappy Bird",
-        "bundleID": "ibn.al.toury.flappybird",
-        "appstore": "com.dotgears.flap"
-      }
-    ],
-    "Tweaked": [
-      {
-        "name": "Snapchat+ (Wicked & Falcon)",
-        "version": "12.67.0.31",
-        "down": "",
-        "category": "Tweaked",
-        "description": "SnapChat Wicked & SCFalcon all in one.",
-        "bundleID": "ibn.al.toury.snapchat",
-        "appstore": "com.toyopagroup.picaboo"
-      },
-      {
-        "name": "Spotify Deluxe",
-        "version": "8.6.42",
-        "down": "",
-        "category": "Tweaked",
-        "description": "Sposify and Spotilife tweak merged into one app",
-        "bundleID": "ibn.al.toury.spotify",
-        "appstore": "com.spotify.client"
-      },
-      {
-        "name": "Instagram Rocket (cracked)",
-        "version": "312.0.1",
-        "down": "",
-        "category": "Tweaked",
-        "bundleID": "ibn.al.toury.instagram",
-        "appstore": "com.burbn.instagram"
-      },
-      {
-        "name": "Tiktok++",
-        "version": "31.8.0",
-        "down": "",
-        "category": "Tweaked",
-        "bundleID": "ibn.al.toury.tiktok",
-        "appstore": "com.zhiliaoapp.musically"
-      },
-      {
-        "name": "Whatsapp++ (dupelicatable)",
-        "version": "23.25.81",
-        "down": "https://archive.org/download/watusi3_1.2.14x/com.fouadraheb.watusi_v23.25.81_watusi3_1.2.14.ipa",
-        "category": "Tweaked",
-        "bundleID": "com.fouadraheb.watusi",
-        "appstore": "et.whatsapp.WhatsApp"
-      }
-    ]
-  }
+    {
+      "name": "Instagram",
+      "version": "312.0.1",
+      "icon": "https://n9dev-dev.github.io/repos/icons/instagram.png",
+      "down": "https://cdn.filetodirectlink.workers.dev/AgAD6h43906?file_name=Instagram+-+KamoHacks%5B312.0.1%5D.ipa",
+      "category": "Tweaked Apps",
+      "bundleID": "ibn.al.toury.instagram",
+      "appstore": "com.burbn.instagram"
+    },
+    {
+      "name": "Tiktok",
+      "version": "8.6.42",
+      "icon": "https://n9dev-dev.github.io/repos/icons/tiktok.png",
+      "down": "https://cdn.filetodirectlink.workers.dev/AgAD6R43908?file_name=TikTok+-+KamoHacks%5B31.8.0%5D.ipa",
+      "category": "Tweaked Apps",
+      "bundleID": "ibn.al.toury.tiktok",
+      "appstore": "com.zhiliaoapp.musically"
+    },
+    {
+      "name": "X or Twitter",
+      "version": "31.8.0",
+      "icon": "https://n9dev-dev.github.io/repos/icons/x.png",
+      "down": "https://cdn.filetodirectlink.workers.dev/AgAD_x43945?file_name=X+-+KamoHacks%5B10.22%5D.ipa",
+      "category": "Tweaked Apps",
+      "bundleID": "ibn.al.toury.twitter",
+      "appstore": "com.atebits.Tweetie2"
+    },
+    {
+      "name": "Spotify",
+      "version": "23.25.81",
+      "icon": "https://n9dev-dev.github.io/repos/icons/spotify.png",
+      "down": "https://cdn.filetodirectlink.workers.dev/AgAD6B43904?file_name=Spotify+Delux+-+Kamohacks+%5Bv8.8.26%5D.ipa",
+      "category": "Tweaked Apps",
+      "bundleID": "ibn.al.toury.spotify",
+      "appstore": "com.spotify.client"
+    },
+    {
+      "name": "Radarbot",
+      "version": "9.12.4",
+      "icon": "https://n9dev-dev.github.io/repos/icons/radar.png",
+      "down": "https://cdn.filetodirectlink.workers.dev/AgAD8B43916?file_name=Radar+Bot+Pro+%5Bv8.9%5D.ipa",
+      "category": "Tweaked Apps",
+      "bundleID": "ibn.al.toury.radarbot",
+      "appstore": "com.iteration-mobile.radarbot-free-ww"
+    },
+    {
+      "name": "Pillow",
+      "version": "4.18.7",
+      "icon": "https://n9dev-dev.github.io/repos/icons/pillow.png",
+      "down": "https://cdn.filetodirectlink.workers.dev/AgAD5B43894?file_name=Pillow+-+KamoHacks+%5B4.18.5%5D.ipa",
+      "category": "Tweaked Apps",
+      "bundleID": "ibn.al.toury.twitter",
+      "appstore": "com.neybox.Pillow"
+    }
+  ],
+  "Games": [
+    {
+      "name": "Revheadz+ IAT",
+      "version": "1.20",
+      "icon": "https://n9dev-dev.github.io/repos/icons/revheadz.png",
+      "down": "https://cdn.filetodirectlink.workers.dev/AgAD7h43912?file_name=RevHeadz%2B+IAT_1.20_1704572266.ipa",
+      "category": "Games",
+      "bundleID": "ibn.al.toury.revheadz",
+      "appstore": "au.com.revheadz.revheadz"
+    },
+    {
+      "name": "Flappybird+",
+      "version": "1",
+      "icon": "https://n9dev-dev.github.io/repos/icons/flappy.png",
+      "down": "https://download.directpubliclinkbot.workers.dev/?file_id=BQACAgQAAxkBAAIbnGWZsqp393HL9aFjBB9-bH441CKtAALmEAACu23QUMbh4ta1AAEf6zQE&mime_type=application/binary&file_name=Flappy+Bird_4.3_1704067843.ipa",
+      "category": "Games",
+      "bundleID": "ibn.al.toury.",
+      "appstore": "com.dotgears.flap"
+    }
+  ]
+}
