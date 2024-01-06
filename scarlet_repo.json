@@ -21,30 +21,6 @@
         "description": "A Classic Flappy Bird",
         "bundleID": "ibn.al.toury.flappybird",
         "appstore": "com.dotgears.flap"
-      },
-      {
-        "name": "Agar.io",
-        "version": "2.26.7",
-        "down": "",
-        "category": "Games",
-        "description": [
-  
-          "✅Custom Zooms🆕",
-          "✅Macro Button",
-          "✅Macro Speed",
-          "✅Max Macro",
-          "✅Enable Marco",
-          "✅Upload Photos 🆕",
-          "✅Customization Skins 🆕",
-          "✅Buttons Reworking Again🆕",
-          "✅Joystick Better Added🆕",
-          "🐱XelaHot Modmenu Reworking",
-          "🐋Anti Cheating Bypassed",
-  
-          "ℹ️ Tap Right & Left Corener To Open Menus"
-        ],
-        "bundleID": "ibn.al.toury.agario",
-        "appstore": "com.miniclip.agar.io"
       }
     ],
     "Tweaked": [
