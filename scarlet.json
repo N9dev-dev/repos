@@ -4,14 +4,23 @@
 		"repoIcon": "https://n9dev-dev.github.io/repos/icons/icon.png"
 	},
 	"Apps": [{
-        "name": "Flappy Bird",
-        "version": "4.3",
-        "down": "https://download.directpubliclinkbot.workers.dev/?file_id=BQACAgQAAxkBAAIbnGWZsqp393HL9aFjBB9-bH441CKtAALmEAACu23QUMbh4ta1AAEf6zQE&mime_type=application/binary&file_name=Flappy+Bird_4.3_1704067843.ipa",
-        "category": "Games",
-        "description": "A Classic Flappy Bird",
-        "bundleID": "ibn.al.toury.flappybird",
-        "appstore": "com.dotgears.flap"
-      },
+        "name": "Snap",
+        "version": "1.1.6",
+        "icon": "https://cdn.discordapp.com/attachments/752890955236901055/829728600446074930/Taurine.png",
+        "down": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.6/Taurine-1.1.6.ipa",
+        "dev": "Odyssey-Team",
+        "category": "Apps",
+        "description": "Time to get amped.",
+        "bundleID": "com.odysseyteam.taurine",
+        "screenshots": [
+            "https://taurine.app/assets/images/iphones.png",
+            "https://taurine.app/assets/images/iphone.png"
+        ],
+        "contact": [
+            "https://taurine.app/",
+            "https://twitter.com/OdysseyTeam_"
+        ]
+    },
     {
         "name": "Odyssey",
         "version": "1.4.2",
