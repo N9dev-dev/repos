@@ -4,7 +4,7 @@
     "repoIcon": "https://n9dev-dev.github.io/repos/icons/icon.png"
   },
   "Tweaked": [
-    {
+    /*{
       "name": "Snapchat",
       "version": "12.67.0.31",
       "icon": "https://n9dev-dev.github.io/repos/icons/snapchat.png",
@@ -12,7 +12,7 @@
       "category": "Tweaked Apps",
       "bundleID": "ibn.al.toury.snapchat",
       "appstore": "com.toyopagroup.picaboo"
-    },
+    },*/
     {
       "name": "Instagram",
       "version": "312.0.1",
@@ -21,7 +21,10 @@
       "category": "Tweaked Apps",
       "bundleID": "ibn.al.toury.instagram",
       "appstore": "com.burbn.instagram"
-    },
+    }
+    
+  ]
+    /*,
     {
       "name": "Tiktok",
       "version": "8.6.42",
@@ -87,5 +90,5 @@
       "bundleID": "ibn.al.toury.flappybird",
       "appstore": "com.dotgears.flap"
     }
-  ]
+  ]*/
 }
